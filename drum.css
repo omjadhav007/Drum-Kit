@@ -1,0 +1,48 @@
+body{
+    background-color: #F2D9D0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: Berkshire Swash;
+    font-size: 5rem;
+    margin: 2rem auto 1rem auto ;
+    /* color: darkblue; */
+    color: #BF0B4D;
+}
+.box{
+    margin: 3rem auto 5rem auto ;
+    display: inline-block;
+}
+button:hover{
+    cursor: pointer;
+}
+button{
+    /* padding: 2rem; */
+    margin: 1rem;
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-family: candara;
+    display: inline-block;
+    width: 7rem;
+    height: 7rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    color: #BF0B4D;
+}
+.shadow{
+    background-color: #f7cca6;
+    box-shadow: 0 4px 5px 0 #BF0B4D;
+}
+p{
+    font-size: 1.5rem;
+    font-family: candara;
+    color: white;
+}
+.bottom{
+    background-color: #F2A663;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
